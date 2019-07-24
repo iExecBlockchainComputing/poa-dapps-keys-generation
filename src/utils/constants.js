@@ -1,6 +1,6 @@
 let constants = {}
 
-constants.organization = 'poanetwork'
+constants.organization = 'iExecBlockchainComputing'
 constants.repoName = 'poa-chain-spec'
 constants.addressesSourceFile = 'contracts.json'
 constants.ABIsSources = {
@@ -29,6 +29,11 @@ constants.NETWORKS = {
     NAME: 'Dai',
     BRANCH: 'dai',
     TESTNET: false
+  },
+  '133': {
+    NAME: 'vRLC',
+    BRANCH: 'viviani',
+    TESTNET: true
   }
 }
 
