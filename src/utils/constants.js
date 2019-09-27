@@ -34,6 +34,11 @@ constants.NETWORKS = {
     NAME: 'vRLC',
     BRANCH: 'viviani',
     TESTNET: true
+  },
+  '134': {
+    NAME: 'xRLC',
+    BRANCH: 'bellecour',
+    TESTNET: false
   }
 }
 
