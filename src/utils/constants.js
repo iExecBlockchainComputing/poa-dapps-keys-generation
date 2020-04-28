@@ -39,6 +39,11 @@ constants.NETWORKS = {
     NAME: 'xRLC',
     BRANCH: 'bellecour',
     TESTNET: false
+  },
+  '138': {
+    NAME: 'test',
+    BRANCH: 'sandbox',
+    TESTNET: true
   }
 }
 
